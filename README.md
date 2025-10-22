@@ -46,12 +46,11 @@ This Power BI project analyzes retail sales data from a fictional superstore to 
 
 ## 📸 Screenshot
 
-![Dashboard Preview](./screenshots/dashboard.png)
+![Dashboard Preview](<img width="2180" height="1222" alt="image" src="https://github.com/user-attachments/assets/0916c286-4b42-456b-a643-a6467439fc28" />
+)
 
 ---
 
 ## 👨‍💻 Created by
 
 **Raghav Malani**  
-Third-Year CSE Student | LNMIIT  
-🔗 [LinkedIn](#) | 📧 raghav@email.com
